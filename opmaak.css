@@ -18,7 +18,7 @@ h2 {
   font-weight: normal;
   border: 10px groove blue;
   border-radius: 0px;
-  margin: 20px;
+  padding: 5px;
 }
 
 h3{
@@ -27,6 +27,7 @@ h3{
   font-family: monospace;
   font-weight: normal;
   border: 10px groove blue;
+  padding: 10px
 
 }
 h5{
